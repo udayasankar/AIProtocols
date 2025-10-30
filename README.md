@@ -9,5 +9,8 @@ Survey of Protocols: https://media.licdn.com/dms/document/media/v2/D4E1FAQFG5DK9
 LIVEMCP-101: STRESS TESTING AND DIAGNOSING
 MCP-ENABLED AGENTS ON CHALLENGING QUERIES : https://arxiv.org/pdf/2508.15760
 
+Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol
+https://arxiv.org/pdf/2504.16902
+
 
 
